@@ -1,0 +1,10 @@
+Parts:
+
+Arduino (everyone knows where to get these)
+Arduino-Xbee Shield https://www.sparkfun.com/products/9976
+XBee Explorer USB https://www.sparkfun.com/products/8687
+Lillypad Light sensor https://www.sparkfun.com/products/8464
+Flex Sensor x2 https://www.sparkfun.com/products/8606
+LilyPad Accelerometer https://www.sparkfun.com/products/9267
+(can't figure out the brand of antennas)
+XBee U.FL Connector x2 https://www.sparkfun.com/products/8666
